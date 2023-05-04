@@ -4,7 +4,8 @@
 
 <p align="center">
 <a href="https://youtu.be/_3wuMq9CKJs">
-<img src="" style="height: 75%; width:75%;"/>https://i.imgur.com/QhvpEkT.jpg</center> </a></p>
+<img src="https://i.imgur.com/QhvpEkT.jpg" style="height: 75%; width:75%;"/></center> </a></p>
+
 
 Los FLOWS son una de las novedades de Kotlin y Android más esperadas ya que nos permiten crear comunicaciones
 constantes permitiendo un flujo actualizado de datos.
