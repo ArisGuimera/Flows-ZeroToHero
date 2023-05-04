@@ -3,18 +3,25 @@
 ## Aprende a trabajar con Flows en Android
 
 <p align="center">
-<a href="">
-<img src="" style="height: 75%; width:75%;"/></center> </a></p>
+<a href="https://youtu.be/_3wuMq9CKJs">
+<img src="" style="height: 75%; width:75%;"/>https://i.imgur.com/QhvpEkT.jpg</center> </a></p>
 
-Cada vez son más las apps que disponen de dos diseños. El modo claro y el modo oscuro. En este tutorial aprenderás todo lo necesario para implementar el modo oscuro en proyectos nuevos y antiguos, además de las distintas formas que hay para hacerlo y todo lo que nos provee el sistema.
+Los FLOWS son una de las novedades de Kotlin y Android más esperadas ya que nos permiten crear comunicaciones
+constantes permitiendo un flujo actualizado de datos.
+
+El problema es que hay muchos tipos de Flows como SharedFlow o StateFlow, cada uno tiene una utilidad y pueden
+llegar a ser algo confusos. 
+
+En el vídeo de esta semana aprenderás TODO lo necesario sobre flows con ejemplos reales y prácticos.
 
 Contenido del vídeo:
 <br />
 - Introducción
-- Preparando proyectos antiguos
-- Tipos de modos
-- Modo oscuro a través de estilos
-- Modo oscuro a través de colores
+- Qué son los flows
+- Creando nuestro primer flow
+- Dominando flows
+- StateFlow y SharedFlow
+- Conclusiones y SORPRESA
 
 ## COLABORA.
 
